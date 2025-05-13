@@ -10,7 +10,7 @@ The project follows these key steps:
     *   **Libraries Imported**: `pandas` for data manipulation, `numpy` for numerical operations, `matplotlib` and `seaborn` for visualization, and `sklearn` for machine learning tasks.
     *   **Data Loaded**: The dataset `data_hotel_booking_demand.csv` was loaded into a pandas DataFrame.
 
-2.  **Exploratory Data Analysis (EDA) and Preprocessing**
+2.  **Exploratory Data Analysis and Preprocessing**
     *   **Initial Inspection**:
         *   Displayed the first few rows (`df.head()`), dimensions (`df.shape`), data types, and non-null counts (`df.info()`).
         *   Generated descriptive statistics for numerical features (`df.describe().T`).
